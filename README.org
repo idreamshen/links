@@ -3,3 +3,4 @@
 1. [[https://blog.jcole.us/2013/01/03/the-basics-of-innodb-space-file-layout/][The basics of InnoDB space file layout]]
 1. [[https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function][Fowler–Noll–Vo hash function]]
 1. [[http://blog.codinglabs.org/articles/theory-of-mysql-index.html][Theory of Mysql index]]
+1. [[http://afghl.github.io/2016/07/04/consistent-hashing.html][Consistent Hashing]]
