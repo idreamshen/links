@@ -1,14 +1,12 @@
-* 文章分享
-
-** 数据库
+* 数据库
 1. [[https://blog.jcole.us/2013/01/03/the-basics-of-innodb-space-file-layout/][The basics of InnoDB space file layout]]
 1. [[http://blog.codinglabs.org/articles/theory-of-mysql-index.html][MySQL索引背后的数据结构及算法原理]]
 1. [[https://www.jianshu.com/p/4e3edbedb9a8][五分钟搞清楚MySQL事务隔离级别]]
 1. [[https://tech.meituan.com/innodb-lock.html][Innodb中的事务隔离级别和锁的关系]]
 
-** 算法
+* 算法
 1. [[https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function][Fowler–Noll–Vo hash function]]
 1. [[https://afghl.github.io/2016/07/04/consistent-hashing.html][一致性哈希（Consistent Hashing）原理]]
 
-** 其他
+* 其他
 1. [[http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html][字符编码笔记：ASCII，Unicode 和 UTF-8]]
