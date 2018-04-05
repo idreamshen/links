@@ -5,6 +5,7 @@
 1. [[https://tech.meituan.com/innodb-lock.html][Innodb中的事务隔离级别和锁的关系]]
 1. [[https://www.percona.com/blog/2012/03/27/innodbs-gap-locks][InnoDB’s gap locks]]
 1. [[http://hedengcheng.com/?p=771][MySQL 加锁处理分析]]
+1. [[https://dev.mysql.com/doc/refman/5.7/en/innodb-deadlocks.html][Deadlocks in InnoDB]]
 
 * 算法
 1. [[https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function][Fowler–Noll–Vo hash function]]
