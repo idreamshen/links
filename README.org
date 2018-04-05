@@ -3,6 +3,8 @@
 1. [[http://blog.codinglabs.org/articles/theory-of-mysql-index.html][MySQL索引背后的数据结构及算法原理]]
 1. [[https://www.jianshu.com/p/4e3edbedb9a8][五分钟搞清楚MySQL事务隔离级别]]
 1. [[https://tech.meituan.com/innodb-lock.html][Innodb中的事务隔离级别和锁的关系]]
+1. [[https://www.percona.com/blog/2012/03/27/innodbs-gap-locks][InnoDB’s gap locks]]
+1. [[http://hedengcheng.com/?p=771][MySQL 加锁处理分析]]
 
 * 算法
 1. [[https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function][Fowler–Noll–Vo hash function]]
