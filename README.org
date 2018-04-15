@@ -1,4 +1,4 @@
-* 数据库
+* Mysql
 1. [[https://blog.jcole.us/2013/01/03/the-basics-of-innodb-space-file-layout/][The basics of InnoDB space file layout]]
 1. [[http://blog.codinglabs.org/articles/theory-of-mysql-index.html][MySQL索引背后的数据结构及算法原理]]
 1. [[https://www.jianshu.com/p/4e3edbedb9a8][五分钟搞清楚MySQL事务隔离级别]]
@@ -6,6 +6,10 @@
 1. [[https://www.percona.com/blog/2012/03/27/innodbs-gap-locks][InnoDB’s gap locks]]
 1. [[http://hedengcheng.com/?p=771][MySQL 加锁处理分析]]
 1. [[https://dev.mysql.com/doc/refman/5.7/en/innodb-deadlocks.html][Deadlocks in InnoDB]]
+
+* Redis
+1. [[https://www.cnblogs.com/jaycekon/p/6227442.html][深入浅出Redis-redis底层数据结构（上）]]
+1. [[https://www.cnblogs.com/jaycekon/p/6277653.html][深入浅出Redis-redis底层数据结构（下）]]
 
 * 算法
 1. [[https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function][Fowler–Noll–Vo hash function]]
