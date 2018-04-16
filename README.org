@@ -20,9 +20,9 @@
 1. [[https://afghl.github.io/2016/07/04/consistent-hashing.html][一致性哈希（Consistent Hashing）原理]]
 
 * 分布式
-1.[[http://newtech.club/2017/06/09/%E5%A4%9A%E7%A0%94%E7%A9%B6%E4%BA%9B%E6%9E%B6%E6%9E%84%EF%BC%8C%E5%B0%91%E8%B0%88%E4%BA%9B%E6%A1%86%E6%9E%B6%EF%BC%881%EF%BC%89-%E8%AE%BA%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5/][多研究些架构，少谈些框架（1） -- 论微服务架构的核心概念]]
+1. [[http://newtech.club/2017/06/09/%E5%A4%9A%E7%A0%94%E7%A9%B6%E4%BA%9B%E6%9E%B6%E6%9E%84%EF%BC%8C%E5%B0%91%E8%B0%88%E4%BA%9B%E6%A1%86%E6%9E%B6%EF%BC%881%EF%BC%89-%E8%AE%BA%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5/][多研究些架构，少谈些框架（1） -- 论微服务架构的核心概念]]
 1. [[http://newtech.club/2017/06/12/%E5%A4%9A%E7%A0%94%E7%A9%B6%E4%BA%9B%E6%9E%B6%E6%9E%84%EF%BC%8C%E5%B0%91%E8%B0%88%E4%BA%9B%E6%A1%86%E6%9E%B6%EF%BC%882%EF%BC%89-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%92%8C%E5%85%85%E8%A1%80%E6%A8%A1%E5%9E%8B/][多研究些架构，少谈些框架（2）-- 微服务和充血模型]]
-1. [[http://newtech.club/2017/06/16/%E5%A4%9A%E7%A0%94%E7%A9%B6%E4%BA%9B%E6%9E%B6%E6%9E%84%EF%BC%8C%E5%B0%91%E8%B0%88%E4%BA%9B%E6%A1%86%E6%9E%B6%EF%BC%883%EF%BC%89-%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%92%8C%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/][多研究些架构，少谈些框架（3）-- 微服务和事件驱动]]
+1.  [[http://newtech.club/2017/06/16/%E5%A4%9A%E7%A0%94%E7%A9%B6%E4%BA%9B%E6%9E%B6%E6%9E%84%EF%BC%8C%E5%B0%91%E8%B0%88%E4%BA%9B%E6%A1%86%E6%9E%B6%EF%BC%883%EF%BC%89-%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%92%8C%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/][多研究些架构，少谈些框架（3）-- 微服务和事件驱动]]
 1. [[https://bigbully.github.io/Dapper-translation/][Dapper，大规模分布式系统的跟踪系统]]
 
 * 其他
