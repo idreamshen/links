@@ -27,3 +27,4 @@
 
 * 其他
 1. [[http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html][字符编码笔记：ASCII，Unicode 和 UTF-8]]
+1. [[https://github.com/skyline75489/what-happens-when-zh_CN][What-happens-when 中译]]
