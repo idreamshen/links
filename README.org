@@ -33,3 +33,4 @@
 1. [[https://tech.youzan.com/api-gateway-in-practice/][有赞API网关实践]]
 1. [[https://blog.csdn.net/historyasamirror/article/details/5778378][IO - 同步，异步，阻塞，非阻塞 （亡羊补牢篇）]]
 1. [[http://sachachua.com/blog/2013/08/emacs-how-i-organize-my-org-files/][Emacs: How I organize my Org files]]
+1. [[http://www.zmonster.me/2018/02/28/org-mode-capture.html#orgaaa3d30][强大的 Org mode(4): 使用 capture 功能快速记录]]
